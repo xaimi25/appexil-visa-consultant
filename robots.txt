@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://xaimi25.github.io/appexil-visa-consultant/sitemap.xml
